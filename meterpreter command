@@ -1,0 +1,52 @@
+Meterpreter commands
+Core commands
+background
+exit
+guid
+info
+irb
+load
+migrate
+run
+sessions
+File system commands
+cd
+ls
+pwd
+edit
+cat
+rm
+search
+upload
+download
+Networking commands
+arp
+ifconfig
+netstat
+portfwd
+route
+System commands
+clearev
+execute
+getpid
+getuid
+kill
+pkill
+ps
+reboot
+shell
+shutdown
+sysinfo
+idletime
+keyscan_dump
+keyscan_start
+keyscan_stop
+screenshare
+screenshot
+record_mic
+webcam_chat
+webcam_list
+webcam_snap
+webcam_stream
+getsystem
+hashdump
